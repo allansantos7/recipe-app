@@ -9,6 +9,12 @@
     margin: 0;
     padding: 0;
     }
+
+    .RecipesLoading {
+        text-align: center;
+        color: white;
+    }
+
     @keyframes recipes-appear {
     from {
     opacity: 0;
