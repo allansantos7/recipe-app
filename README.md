@@ -5,7 +5,27 @@ Recipe App
 
 Live site: https://benevolent-piroshki-e2d75e.netlify.app/
 
-Goals:
-  -Nicely display recipe information with the name, ingredients, and instructions. 
-  -A form allowing the user to add recipes to the site and have those displayed.
-  -Use HTTP and custom hooks for form submission
+Description: </br>
+Recipe app that lists recipes on a page and has a form to add recipes using HTTP and custom hooks.
+
+Goals: </br>
+<ul>
+  <li>
+     Create a real-time database on Firebase that stores the recipes.
+  </li>
+  <li>
+    Input for Recipe Name, Ingredients, and Instructions.
+  </li>
+  <li>
+    Have user feedback for validating the recipe information.
+  </li>
+  <li>
+    Have a GET request to get Recipes from Firebase
+  </li>
+  <li>
+    Have a POST request to save the data submitted from the form.
+  </li>
+  <li>
+    Custom hook for form/HTTP requests.
+  </li>
+</ul>
